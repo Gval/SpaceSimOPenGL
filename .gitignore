@@ -1,2 +1,8 @@
 OpenGlTest2/Debug/OpenGlTest2.tlog/OpenGlTest2.lastbuildstate
 OpenGlTest2/Debug/OpenGlTest2.tlog/cl.command.1.tlog
+*.tlog
+*.opensdf
+OpenGlTest2.sdf
+*.lastbuildstate
+OpenGlTest2/Debug/OpenGlTest2.tlog/link.write.1.tlog
+*.tlog
